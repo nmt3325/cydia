@@ -6,16 +6,16 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: nmt3325 の Cydia リポジトリ (iOS 6 対応ツールなど)
-Date: Mon, 09 Nov 2026 02:00:25 UTC
+Date: Mon, 09 Nov 2026 02:25:07 UTC
 MD5Sum:
- 44eb4d696f0dcb2670388db769180ad3 641 Packages
- e4713d654cd98954b84958f180bcc0fc 490 Packages.bz2
- bfb1b34ad7d0245e4fd54f2f55e62498 436 Packages.gz
+ 5ac73f021f97bcb72771d2c8c8f99bc4 639 Packages
+ d82dd656ab82f4febefc7bc9be1764ad 492 Packages.bz2
+ 08a902ec31dfe72bd84af73d5f91aa74 438 Packages.gz
 SHA1:
- 00fe43d460c8411a337afaf1a806773b63705301 641 Packages
- d9ddef9f508c79caf27ba1ed4b4e394e148cbce2 490 Packages.bz2
- c14c09cb3fffde58a7c3b333dbd0bd21b88b428b 436 Packages.gz
+ 64c7a11a9968573c8aa7880faa6f8a785ab75873 639 Packages
+ b2fc98575044f372d2e9856c3378997ee9da1d72 492 Packages.bz2
+ a36de0a881773d013785ae3cf9501dc7cd1be83d 438 Packages.gz
 SHA256:
- 7a5d136f1d3d82a84cbb77ca9c8915851cf8d8b77f958dd52c8ee9daf93413de 641 Packages
- 5d73960a295977672127ab1326748a6aa5be77367fa121aa67634045a6fcb079 490 Packages.bz2
- 883e11a37428408684ab1cae9cae7474782cee23f767ddd965a5111738d6dac0 436 Packages.gz
+ 81d97f61dd6cf3b4f66a352a1b3c7bf04534d4846aaccbd6736665ef32f7722e 639 Packages
+ 517e461d3910708994c4bc536a0d44bb57816b16d7bf0cab794a27c496b7fae0 492 Packages.bz2
+ a7871dc8d8bfd4acb8a3ef01797ae4965ff63b0136808d3a40e60083c84393d5 438 Packages.gz

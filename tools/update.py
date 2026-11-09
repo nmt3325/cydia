@@ -3,7 +3,7 @@
 Usage: python3 tools/update.py   (after adding .deb files to docs/debs/)"""
 import bz2, gzip, hashlib, io, os, subprocess, tarfile, time
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'docs')
-BASE = 'https://nmt3325.github.io/nmt3325/'
+BASE = 'https://nmt3325.github.io/cydia/'
 EXTRA = {  # per-package extra Packages fields
     'dev.owngoal.icli6': {'Author': 'nmt3325', 'Homepage': 'https://github.com/nmt3325/icli6',
                           'Depiction': BASE + 'depictions/icli6.html'},

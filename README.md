@@ -2,7 +2,7 @@
 
 脱獄 iOS 向けの Cydia / APT リポジトリ。
 
-**ソース URL:** `https://nmt3325.github.io/nmt3325/`
+**ソース URL:** `https://nmt3325.github.io/cydia/`
 
 Cydia → ソース → 編集 → 追加 で上記 URL を入力。
 

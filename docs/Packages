@@ -9,7 +9,7 @@ Section: Utilities
 Installed-Size: 288
 Author: nmt3325
 Homepage: https://github.com/nmt3325/icli6
-Depiction: https://nmt3325.github.io/nmt3325/depictions/icli6.html
+Depiction: https://nmt3325.github.io/cydia/depictions/icli6.html
 Filename: debs/icli6_0.11.0-ios6.1_iphoneos-arm.deb
 Size: 122380
 MD5sum: 355b2b39f76e0f095aef2c3cd2d2ac78

@@ -1,0 +1,21 @@
+Origin: nmt3325 Repository
+Label: nmt3325 Repository
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: nmt3325 の Cydia リポジトリ (iOS 6 対応ツールなど)
+Date: Mon, 09 Nov 2026 02:00:25 UTC
+MD5Sum:
+ 44eb4d696f0dcb2670388db769180ad3 641 Packages
+ e4713d654cd98954b84958f180bcc0fc 490 Packages.bz2
+ bfb1b34ad7d0245e4fd54f2f55e62498 436 Packages.gz
+SHA1:
+ 00fe43d460c8411a337afaf1a806773b63705301 641 Packages
+ d9ddef9f508c79caf27ba1ed4b4e394e148cbce2 490 Packages.bz2
+ c14c09cb3fffde58a7c3b333dbd0bd21b88b428b 436 Packages.gz
+SHA256:
+ 7a5d136f1d3d82a84cbb77ca9c8915851cf8d8b77f958dd52c8ee9daf93413de 641 Packages
+ 5d73960a295977672127ab1326748a6aa5be77367fa121aa67634045a6fcb079 490 Packages.bz2
+ 883e11a37428408684ab1cae9cae7474782cee23f767ddd965a5111738d6dac0 436 Packages.gz
